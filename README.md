@@ -10,7 +10,7 @@ This repository contains day-wise notes and code snippets for our comprehensive 
 
 
 - Python
-- DataBase( SQl and NOSQL)
+- DataBase( SQL and NOSQL)
 - Statistics
 - Machine Learning
 - Deep learning
