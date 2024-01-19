@@ -4,9 +4,10 @@ Welcome to the "Data Science Crash Course" by DataSciLearn! 🚀✨
 
 ## Overview
 
-This repository contains day-wise notes and code snippets for our comprehensive crash course on Data Science. Each day covers essential Python programming concepts, data types, and data structures, laying the foundation for a successful journey into the world of data science and Gen AI.
+This repository contains day-wise notes and code snippets for our comprehensive crash course on Data Science. This comprehensive crash course is designed to provide you with a solid foundation in data science using Python. Each day covers key topics, hands-on exercises, and practical examples to help you master essential concepts in a step-by-step manner, laying the foundation for a successful journey into the world of data science and Gen AI.
 
 ## Course Outline
+
 
 - Python
 - DataBase( SQl and NOSQL)
