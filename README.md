@@ -18,6 +18,7 @@ This repository contains day-wise notes and code snippets for our comprehensive 
 - Power BI / Tableau
 - Generative AI 
 
+![Uploading DataScilearn.png…]()
 
 
 ## How to Use
