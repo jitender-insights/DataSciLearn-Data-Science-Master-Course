@@ -10,7 +10,7 @@ This repository contains day-wise notes and code snippets for our comprehensive 
 
 
 - Python
-- DataBase( SQL and NOSQL)
+- Database( SQL and NOSQL)
 - Statistics
 - Machine Learning
 - Deep learning
@@ -18,7 +18,9 @@ This repository contains day-wise notes and code snippets for our comprehensive 
 - Power BI / Tableau
 - Generative AI 
 
-![Uploading DataScilearn.png…]()
+![DataScilearn](https://github.com/jitender-insights/DataSciLearn-Data-Science-Master-Course/assets/138782926/7e5d4d57-d70c-4509-9ccc-eedbce644e4d)
+
+
 
 
 ## How to Use
