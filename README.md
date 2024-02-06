@@ -9,7 +9,8 @@ This repository contains day-wise notes and code snippets for our comprehensive 
 ## Course Outline
 
 
-- Python
+- Python Foundation
+- Python Advance ( Flask, Numpy, Pandas, Data Visualization)
 - Database( SQL and NoSQL)
 - Statistics
 - Machine Learning
