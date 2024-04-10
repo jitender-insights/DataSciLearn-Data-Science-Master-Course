@@ -1,4 +1,4 @@
-# Data Science Crash Course
+# Data Science Master Course
 
 Welcome to the "Data Science Crash Course" by DataSciLearn! 🚀✨
 
